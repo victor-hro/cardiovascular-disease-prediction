@@ -1,0 +1,4 @@
+artifact_location: file:///home/victor/Programas/portf%C3%B3lio/cardiovascular-disease-prediction/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: cardio-pred
